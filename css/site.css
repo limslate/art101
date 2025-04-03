@@ -11,7 +11,18 @@ body {
 h1,h2,h3 {
   font-family: sans-serif;
 }
-
+p {
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #304bd3;
+  background-color: #60c8e5;
+}
+p2 {
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #304bd3;
+  background-color: #60c8e5;
+}
 /* and we can have rules that overlap other rules, both take effect */
 h1 {
   letter-spacing: 5px;
