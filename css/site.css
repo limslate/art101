@@ -18,7 +18,16 @@ h1 {
   word-spacing: 5px;
   font-size: 200%;
 }
-
+h2 {
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  font-size: 200%;
+}
+h3 {
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  font-size: 200%;
+}
 /* the hashtag in a CSS selector selects an element by id, e.g., id="content" */
 #content {
   margin: 10px;
