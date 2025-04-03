@@ -28,12 +28,7 @@ h3 {
   word-spacing: 5px;
   font-size: 200%;
 }
-p2 {
-  margin: 10px;
-  padding: 10px;
-  border: solid 1px #304bd3;
-  background-color: #60c8e5;
-}
+
 /* the hashtag in a CSS selector selects an element by id, e.g., id="content" */
 #content {
   margin: 10px;
