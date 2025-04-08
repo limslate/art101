@@ -17,7 +17,7 @@ body {
 
 /* we can have rules apply to multiple elements at the same time with commas */
 h1,h2,h3 {
-  font-family: sans-serif;
+  font-family: Georgia;
 
 }
 p {
@@ -57,6 +57,6 @@ h3 {
 .minor-section {
   padding: 10px;
   margin-bottom: 10px;
-  border: solid 1px #601297;
+  border: solid 5px #601297;
   background-color: #c175ea;
 }
