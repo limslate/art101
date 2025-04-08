@@ -1,18 +1,12 @@
 
 
-cat-photo {
-  margin: 10px;
-  padding: 10px;
-  border: solid 5px #035b1f;
-  background-color: #60e5a5;
-}
 /* we can use a single css file to style all the files in our wwebsite */
 
 /* you can pick your own background colors, text colors, and fonts */
 
 /* we can select an html element tag, in this case "body" will apply to the whole document */
 body {
-  background-color: #f8e83b;
+  background-color: #ffd000;
 }
 
 /* we can have rules apply to multiple elements at the same time with commas */
