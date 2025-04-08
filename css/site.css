@@ -49,14 +49,14 @@ h3 {
 #content {
   margin: 10px;
   padding: 10px;
-  border: solid 5px #034621;
-  background-color: #72e560;
+  border: solid 5px #460326;
+  background-color: #e46692;
 }
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
   padding: 10px;
   margin-bottom: 10px;
-  border: solid 1px #129749;
-  background-color: #6fecb8;
+  border: solid 1px #601297;
+  background-color: #c175ea;
 }
