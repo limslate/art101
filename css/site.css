@@ -1,21 +1,33 @@
+title {
+  text-align: center;
+  
+}
+
+cat-photo {
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #ffb811;
+  background-color: #60e5a5;
+}
 /* we can use a single css file to style all the files in our wwebsite */
 
 /* you can pick your own background colors, text colors, and fonts */
 
 /* we can select an html element tag, in this case "body" will apply to the whole document */
 body {
-  background-color: #f6ff00;
+  background-color: #f8e83b;
 }
 
 /* we can have rules apply to multiple elements at the same time with commas */
 h1,h2,h3 {
   font-family: sans-serif;
+
 }
 p {
   margin: 10px;
   padding: 10px;
-  border: solid 1px #304bd3;
-  background-color: #60c8e5;
+  border: solid 5px #0c249d;
+  background-color: #7fcfe6;
 }
 
 /* and we can have rules that overlap other rules, both take effect */
@@ -39,8 +51,8 @@ h3 {
 #content {
   margin: 10px;
   padding: 10px;
-  border: solid 1px #ffb811;
-  background-color: #60e5a5;
+  border: solid 5px #034621;
+  background-color: #72e560;
 }
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
