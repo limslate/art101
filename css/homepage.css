@@ -17,12 +17,18 @@
   background-color: #79de9b;
 }
 .image-section {
-  margin: 10px;
-  max-width: 500px;
-  margin: 10px;
-  padding: 10px;
-  display: flex;          
-  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.image-section img {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 
 body {
