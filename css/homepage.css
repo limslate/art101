@@ -16,7 +16,12 @@
   border: solid 5px #1cd253;
   background-color: #79de9b;
 }
-
+.image-section {
+  margin: 10px;
+  max-width: 500px;
+  margin: 10px;
+  padding: 10px;
+}
 
 body {
   background-color: #f5ed21;
