@@ -13,7 +13,8 @@
   max-width: 50px;
   margin: 0px;
   padding: 0px;
-  border: solid 5px #31d21c;
+  border: solid 5px #e79a0c;
+  background-color: #edc077;
   display: flex;
   justify-content: left;
   gap: 20px;
