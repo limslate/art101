@@ -8,6 +8,18 @@
   border: solid 5px #0198a5;
   background-color: #60e5c6;
 }
+.portraitpic {
+  margin: 0px;
+  max-width: 500px;
+  margin: 0px;
+  padding: 0px;
+  border: solid 5px #31d21c;
+  display: flex;
+  justify-content: left;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
 .other-photo {
   margin: 10px;
   max-width: 500px;
