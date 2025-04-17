@@ -9,10 +9,10 @@
   background-color: #60e5c6;
 }
 .portraitpic {
-  margin: 0px;
+  margin: 10px;
   max-width: 120px;
-  margin: 0px;
-  padding: 0px;
+  margin: 10px;
+  padding: 10px;
   border: solid 5px #e79a0c;
   background-color: #edc077;
   display: flex;
