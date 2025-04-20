@@ -1,6 +1,7 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// GAME TITLE
+// An implementation of the game
+// Emmet Slater <limslate@ucsc.edu>
+// April 20th 2024
 
 // Constants
 
