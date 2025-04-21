@@ -1,8 +1,40 @@
-// GAME TITLE
+// Collect the Items
 // An implementation of the game
-// Emmet Slater <limslate@ucsc.edu>
+// Ari Ferreros <abnferre@ucsc.edu> & Emmet Slater <limslate@ucsc.edu>
 // April 20th 2024
 
+// Initialize board with items on random row/column values
+// initialize character in the middle of the board
+
+// Print the board after every valid key press
+   // Loop through each row
+       // Loop through each column
+           // Print item, character, or space
+		// if no items, print WIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 // Constants
 
 // Functions
