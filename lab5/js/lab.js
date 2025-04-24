@@ -1,6 +1,52 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - Lab 5 prompt
+// Author: Emmet Slater
+// Date: 2/24/25
+
+make = "Ford";
+model = "Taurus";
+color = "Rusty";
+year = 1995;
+age = 2025 - year;
+ownIt = true;
+
+document.writeln("Make: ", make);
+document.writeln("Model: ", model);
+document.writeln("Color: ", color);
+document.writeln("Year: ", year);
+document.writeln("age: ", age);
+document.writeln("Do you own it: ", ownIt);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // Constants
 
