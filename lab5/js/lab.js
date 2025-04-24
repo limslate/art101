@@ -9,12 +9,12 @@ year = 1995;
 age = 2025 - year;
 ownIt = true;
 
-document.writeln("Make: ", make);
-document.writeln("Model: ", model);
-document.writeln("Color: ", color);
-document.writeln("Year: ", year);
-document.writeln("age: ", age);
-document.writeln("Do you own it: ", ownIt);
+document.writeln("Make: " + make + <br></br>);
+document.writeln("Model: "+ model + <br></br>);
+document.writeln("Color: "+ color + <br></br>);
+document.writeln("Year: "+ year + <br></br>);
+document.writeln("age: "+ age + <br></br>);
+document.writeln("Do you own it: "+ ownIt + <br></br>);
 
 
 
