@@ -7,3 +7,12 @@
     border: solid 5px #630e7a;
     background-color: #e18ae9;
   }
+  
+.cat-photo {
+  margin: 10px;
+  max-width: 500px;
+  margin: 10px;
+  padding: 10px;
+  border: solid 5px #0198a5;
+  background-color: #60e5c6;
+}
