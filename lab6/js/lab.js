@@ -20,7 +20,7 @@ var myMainRide = {
 
 
 //Output
-document.writeln("Kinds of transport that I use: ", myTranport, "</br>");
+document.writeln("Kinds of transport that I use: ", myTransport, "</br>");
 
 document.writeln("My main ride: <pre>",
   JSON.stringify(myMainRide, null, '\t'), "</pre>");
