@@ -4,7 +4,7 @@
 
 
 //All modes of transport
-myTransport = ["Ford Taurus", "Bike", "Ride from friends", "Lime scooter"];
+myTransport = ["Ford Taurus", "Bike", "Ride from friends", "Lime scooter"]
 
 //Collection of my car's attributes
 var myMainRide = {
