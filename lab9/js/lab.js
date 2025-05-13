@@ -5,11 +5,11 @@
 // add button to challenge section
 $("#challenge").append("<button id='button-challenge'>Make Special</button>");
 // add button to problem section
-$("#problem").append("<button id='button-challenge'>Make Special</button>");
+$("#problem").append("<button id='button-problem'>Make Special</button>");
 // add button to reflection section
-$("#reflection").append("<button id='button-challenge'>Make Special</button>");
+$("#reflection").append("<button id='button-reflection'>Make Special</button>");
 // add button to output section
-$("#output").append("<button id='button-challenge'>Make Special</button>");
+$("#output").append("<button id='button-output'>Make Special</button>");
 
 // add a click listener to the challenge button
 $("#button-challenge").click(function(){
