@@ -54,3 +54,11 @@ h3 {
   border: solid 5px #601297;
   background-color: #c175ea;
 }
+
+.special {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 5px rgb(71, 245, 251);
+  background-color:rgb(75, 123, 206);
+  color: #ffffff;
+}
