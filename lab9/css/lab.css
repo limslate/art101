@@ -4,11 +4,40 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
+    border: solid 5px rgb(9, 164, 115);
+    background-color:rgb(118, 217, 179);
+    color:rgb(0, 0, 0);
+  }
+  
+  .challenge {
+    padding: 10px;
+    margin-bottom: 10px;
     border: solid 5px rgb(89, 9, 164);
     background-color:rgb(183, 118, 217);
     color:rgb(0, 0, 0);
   }
-  
+  .problem {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 5px rgb(89, 9, 164);
+    background-color:rgb(183, 118, 217);
+    color:rgb(0, 0, 0);
+  }
+  .reflection {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 5px rgb(89, 9, 164);
+    background-color:rgb(183, 118, 217);
+    color:rgb(0, 0, 0);
+  }
+  .output {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 5px rgb(89, 9, 164);
+    background-color:rgb(183, 118, 217);
+    color:rgb(0, 0, 0);
+  }
+
 .cat-photo {
   margin: 10px;
   max-width: 500px;
@@ -32,4 +61,11 @@ p {
   padding: 10px;
   border: solid 5px rgb(201, 189, 11);
   background-color:rgb(213, 230, 127);
+}
+
+.special-p {
+  margin: 10px;
+  padding: 10px;
+  border: solid 5px rgb(201, 138, 11);
+  background-color:rgb(230, 184, 127);
 }
