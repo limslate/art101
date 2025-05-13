@@ -18,6 +18,35 @@
   background-color: #60e5c6;
 }
 
+.challenge {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 5px rgb(153, 2, 12);
+  background-color:rgb(224, 90, 128);
+  color:rgb(0, 0, 0);
+}
+.problem {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 5px rgb(153, 2, 12);
+  background-color:rgb(224, 90, 128);
+  color:rgb(0, 0, 0);
+}
+.reflection {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 5px rgb(153, 2, 12);
+  background-color:rgb(224, 90, 128);
+  color:rgb(0, 0, 0);
+}
+.output {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 5px rgb(153, 2, 12);
+  background-color:rgb(224, 90, 128);
+  color:rgb(0, 0, 0);
+}
+
 .special {
   padding: 10px;
   margin-bottom: 10px;
