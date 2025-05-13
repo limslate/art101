@@ -15,19 +15,23 @@ $("#output").append("<button id='button-output'>Make Special</button>");
 $("#button-challenge").click(function(){
     // now add (or subtract) the "special" class to the section
     $("#challenge").toggleClass("special");
+    document.getElementById("myParagraph").classList.toggle("special-p");
 });
 // add a click listener to the problem button
 $("#button-problem").click(function(){
     // now add (or subtract) the "special" class to the section
     $("#problem").toggleClass("special");
+    document.getElementById("myParagraph").classList.toggle("special-p");
 });
 // add a click listener to the reflection button
 $("#button-reflection").click(function(){
     // now add (or subtract) the "special" class to the section
     $("#reflection").toggleClass("special");
+    document.getElementById("myParagraph").classList.toggle("special-p");
 });
 // add a click listener to the output button
 $("#button-output").click(function(){
     // now add (or subtract) the "special" class to the section
     $("#output").toggleClass("special");
+    document.getElementById("myParagraph").classList.toggle("special-p");
 });
