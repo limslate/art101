@@ -56,16 +56,9 @@
 }
 
 
-p {
+.special-p {
   margin: 10px;
   padding: 10px;
   border: solid 5px rgb(201, 189, 11);
   background-color:rgb(213, 230, 127);
-}
-
-.special-p {
-  margin: 10px;
-  padding: 10px;
-  border: solid 5px rgb(201, 138, 11);
-  background-color:rgb(230, 184, 127);
 }
