@@ -4,8 +4,8 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 5px rgb(164, 9, 9);
-    background-color:rgb(206, 75, 75);
+    border: solid 5px rgb(89, 9, 164);
+    background-color:rgb(183, 118, 217);
     color:rgb(0, 0, 0);
   }
   
@@ -16,35 +16,6 @@
   padding: 10px;
   border: solid 5px #0198a5;
   background-color: #60e5c6;
-}
-
-.challenge {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: solid 5px rgb(153, 2, 12);
-  background-color:rgb(224, 90, 128);
-  color:rgb(0, 0, 0);
-}
-.problem {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: solid 5px rgb(153, 2, 12);
-  background-color:rgb(224, 90, 128);
-  color:rgb(0, 0, 0);
-}
-.reflection {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: solid 5px rgb(153, 2, 12);
-  background-color:rgb(224, 90, 128);
-  color:rgb(0, 0, 0);
-}
-.output {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: solid 5px rgb(153, 2, 12);
-  background-color:rgb(224, 90, 128);
-  color:rgb(0, 0, 0);
 }
 
 .special {
