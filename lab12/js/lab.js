@@ -16,7 +16,7 @@ function sortingHat(str) {
   }
 }
 
-$('#button').click(function () {
+$('#submit').click(function () {
   const input = $('#user-name').val();
   const sortedTama = sortingHat(input);
   const outputText = `<div class="text"><p>You got: ${sortedTama} as your character!</p></div>`
