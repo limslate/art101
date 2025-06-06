@@ -23,7 +23,3 @@ function getAndDisplayComic() {
         }
     });
 }
-
-$(document).ready(function() {
-    getAndDisplayComic();
-});
